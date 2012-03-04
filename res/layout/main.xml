@@ -5,8 +5,54 @@
     android:orientation="vertical" >
 
     <TextView
-        android:layout_width="fill_parent"
+        android:id="@+id/destinationLabel"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
+        android:layout_gravity="center"
+        android:text="Enter Your Destination"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="10sp" />
+
+    <TextView
+        android:id="@+id/destinationSublabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="(e.g.: Arch, 1820 Chicago Ave)"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <AutoCompleteTextView
+        android:id="@+id/destination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Type location here..."
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp" >
+
+        <requestFocus />
+    </AutoCompleteTextView>
+
+    <TextView
+        android:id="@+id/timeLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Enter Your Departure Time"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TimePicker
+        android:id="@+id/departureTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp" />
+
+    <Button
+        android:id="@+id/go"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go!"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </LinearLayout>
