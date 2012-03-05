@@ -1,0 +1,80 @@
+Donald P. Jacobs Center;2001 Sheridan Road Evanston, IL 60208
+620 Lincoln Street;620 Lincoln Street;
+Elder Residence Hall;2400 Sheridan Road Evanston, IL 60201
+Delta Chi Fraternity;619 Colfax Street Evanston, IL 60201
+Patten Gymnasium;2407 Sheridan Road Evanston, IL 60208
+584 Lincoln Residence Hall;584 Lincoln Street Evanston, IL 60201
+Beta Theta Pi Fraternity;2349 Sheridan Road Evanston, IL 60201
+Phi Delta Theta Fraternity;2347 Sheridan Road Evanston, IL 60201
+2335 Sheridan Road;2335 Sheridan Road Evanston, IL 60201
+Lambda Chi Alpha Fraternity;2339 Sheridan Road Evanston, IL 60201
+Sigma Phi Epsilon Fraternity;2341 Sheridan Road Evanston, IL 60201
+Goodrich House Residence Hall;2321 Sheridan Road Evanston, IL 60201
+Pi Kappa Alpha Fraternity;2317 Sheridan Road Evanston, IL 60201
+Chi Psi Fraternity;2313 Sheridan Road Evanston, IL 60201
+Lindgren Hall;2309 Sheridan Road Evanston, IL 60201
+Delta Upsilon Fraternity;2307 Sheridan Road Evanston, IL 60201
+College of Cultural & Community Studies;2303 Sheridan Road Evanston, IL 60201
+Foster House Residence Hall;2253 Sheridan Road Evanston, IL 60201
+2251 Sheridan Road Residence Hall;2251 Sheridan Road Evanston, IL 60201
+Zeta Beta Tau Fraternity;576 Lincoln Street Evanston, IL 60201
+Theta Chi Fraternity;572 Lincoln Street Evanston, IL 60201
+566 Lincoln Street;566 Lincoln Street Evanston, IL 60208
+Alpha Epsilon Pi Fraternity;562 Lincoln Street Evanston, IL 60201
+Kemper Residence Hall;2420 Campus Drive Evanston, IL 60201
+Slivka Residence Hall;2332 Campus Drive Evanston, IL 60201
+Ayers College of Commerce & Industry;2324 Campus Drive Evanston, IL 60201
+McCulloch Residence Hall;2315 Sheridan Road Evanston, IL 60201
+Bobb Residence Hall;2305 Sheridan Road Evanston, IL 60201
+Henry Crown Sports Pavilion / Norris Aquatic Center;2311 Campus Drive Evanston, IL 60208
+Combe Tennis Center;2311 Campus Drive Evanston, IL 60208
+Technological Institute;2145 Sheridan Road Evanston, IL 60208
+Frances Searle Building;2240 Campus Drive Evanston, IL 60208
+Lakeside Fields;2221-2247 Campus Drive Evanston, IL 60208
+Seeley G. Mudd Science and Engineering Library;2233 Tech Drive Evanston, IL 60208
+Cook Hall;2220 Campus Drive Evanston, IL 60208
+Hogan Building;2205 Tech Drive Evanston, IL 60208
+Pancoe-NSUHS Life Sciences Pavilion;2200 Campus Drive Evanston, IL 60208
+James L Allen Center;2169 Campus Drive Evanston, IL 60208
+Ryan Hall;2190 Campus Drive Evanston, IL 60208
+Silverman Hall;2170 Campus Drive Evanston, IL 60208
+Ford Motor Company Engineering Design Center;2133 Sheridan Road Evanston, IL 60208
+Shakespeare Garden;East of Sheridan Rd., North of Garrett, South of Technological Institute Evanston, IL 60201
+Catalysis Center;2137 Tech Drive Evanston, IL 60208
+Dearborn Observatory;2131 Tech Drive Evanston, IL 60208
+Garrett-Evangelical Theological Seminary;2121 Sheridan Road Evanston, IL 60201
+Shanley Hall;2031 Sheridan Road Evanston, IL 60208
+Lunt Hall;2033 Sheridan Road Evanston, IL 60208
+Swift Hall;2029 Sheridan Road Evanston, IL 60208
+Cresap Laboratory;2021 Sheridan Road Evanston, IL 60208
+Central Utility Plant;2025 N Campus Drive Evanston, IL 60208
+Andersen Hall;2003 Sheridan Road Evanston, IL 60208
+Donald P. Jacobs Center;2001 Sheridan Road Evanston, IL 60208
+Deering Meadow;1937 Sheridan Rd. Evanston, IL 60201
+Deering Library;1935 Sheridan Road Evanston, IL 60208
+University Library;1970 Campus Drive Evanston, IL 60208
+Norris University Center;1999 Campus Drive Evanston, IL 60208
+Pick-Staiger Concert Hall;50 Arts Circle Drive Evanston, IL 60208
+Annie May Swift Hall;1920 Campus Drive Evanston, IL 60208
+University Hall;1897 Sheridan Road Evanston, IL 60208
+Weber Arch;Sheridan Rd & Chicago Ave Evanston, IL 60208
+Harris Hall;1881 Sheridan Road Evanston, IL 60208
+West Fairchild (International Studies Residential College);1861 Sheridan Road Evanston, IL 60201
+Crowe Hall;1860 Campus Drive Evanston, IL 60208
+Kresge Hall;1880 Campus Drive Evanston, IL 60208
+East Fairchild (Communications Residential College);1855 Sheridan Road Evanston, IL 60201
+The McCormick Tribune Center;1870 Campus Drive Evanston, IL 60208
+Fisk Hall;1845 Sheridan Road Evanston, IL 60208
+Locy Hall;1850 Campus Drive Evanston, IL 60208
+John J. Louis Hall;1877 Campus Drive Evanston, IL 60208
+Theatre and Interpretation Center: Dance Center, Louis Theater, and Barber Theater;1949 Campus Drive; 10-30 Arts Circle Drive Evanston, IL 60208
+Block Museum of Art, Mary and Leigh;40 Arts Circle Drive Evanston, IL 60208
+Marjorie Ward Marshall Dance Center;10 Arts Circle Drive Evanston, IL 60208
+Regenstein Hall of Music;60 Arts Circle Drive Evanston, IL 60208
+Boat House;1839 South Campus Drive Evanston, IL 60201
+
+
+
+
+
+
