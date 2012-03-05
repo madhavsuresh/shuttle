@@ -27,7 +27,7 @@ public class ShuttleActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        AutoCompleteTextView inputView = (AutoCompleteTextView) findViewById(R.id.autocomplete_location);
+        AutoCompleteTextView inputView = (AutoCompleteTextView) findViewById(R.id.destination);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.list_item,PLACES);
         inputView.setAdapter(adapter);
 

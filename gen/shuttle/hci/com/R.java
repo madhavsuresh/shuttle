@@ -14,9 +14,12 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int RelativeLayout1=0x7f050000;
-        public static final int autocomplete_location=0x7f050001;
-        public static final int timePicker1=0x7f050002;
+        public static final int departureTime=0x7f050004;
+        public static final int destination=0x7f050002;
+        public static final int destinationLabel=0x7f050000;
+        public static final int destinationSublabel=0x7f050001;
+        public static final int go=0x7f050005;
+        public static final int timeLabel=0x7f050003;
     }
     public static final class layout {
         public static final int list_item=0x7f030000;
