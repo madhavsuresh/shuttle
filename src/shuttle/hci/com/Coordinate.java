@@ -3,11 +3,11 @@ package shuttle.hci.com;
 
 public class Coordinate{
 	private final double lat;
-	private final double lon;
+	private final double lng;
 	
 	public Coordinate(double lat, double lon){
 		this.lat = lat;
-		this.lon = lon;
+		this.lng = lon;
 	}
 		
 		public double getLat(){
@@ -15,8 +15,14 @@ public class Coordinate{
 			return lat;
 		}
 		
-		public double getLon(){
-			return lon;
+		public double getLng(){
+			return lng;
+		}
+		public boolean equals(Coordinate c){
+			if( (c.getLat() == this.lat) && (c.getLng() == this.lng)){
+				return true;
+			}
+			return false;
 		}
 		@Override
 		public String toString(){

@@ -1,15 +1,15 @@
-Ward Building @41.896703,-87.619497
+Ward @41.896703,-87.619497
 Sheridan/Loyola @42.001505,-87.660964
 Chicago/Main @42.034106,-87.679042
 Chicago/Greenleaf @42.037763,-87.680415
 Chicago/Davis @42.046273,-87.679331
-Chicago/Sheridan @42.050958,-87.677572
-Sheridan/Foster @42.053666,-87.67754
-Sheridan/Noyes @42.058215,-87.6774
-Patten Gym @42.061202,-87.676928
-Central CTA @42.064332,-87.685533
-Central/Jackson (eastbound) @42.063982,-87.692056
-Ryan Field @42.065304,-87.694287
+Arch @42.050958,-87.677572
+Kellogg @42.053666,-87.67754
+Tech @42.058215,-87.6774
+Patten @42.061202,-87.676928
+Central_L @42.064332,-87.685533
+Central/Jackson @42.063982,-87.692056
+Ryan_Field @42.065304,-87.694287
 Sherman/Noyes @42.058542,-87.681799
 Sherman/Simpson @42.055881,-87.681863
 Sherman/Emerson @42.052224,-87.68196

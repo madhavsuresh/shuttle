@@ -5,7 +5,6 @@ import json
 endpoint = 'http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address='
 f = open('./addrlst.txt')
 for addr in f:
-    print addr
     tup = addr.split(';')
     name = tup[0]
     addr = tup[1]
