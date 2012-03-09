@@ -20,9 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_marginTop="48dp"
-        android:text="Type location here..." >
-
-        <requestFocus />
+        android:hint="@string/LocationHint" >
     </AutoCompleteTextView>
 
     <TextView
@@ -49,8 +47,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/destinationSublabel"
-        android:layout_marginTop="58dp"
+        android:layout_centerVertical="true"
         android:text="Enter Your Departure Time"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -58,9 +55,17 @@
         android:id="@+id/timePicker1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignRight="@+id/timeLabel"
         android:layout_below="@+id/timeLabel"
-        android:layout_marginRight="18dp"
-        android:layout_marginTop="18dp" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp" />
+
+    <Button
+        android:id="@+id/favorites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/destinationSublabel"
+        android:layout_marginTop="17dp"
+        android:text="Favorites" />
 
 </RelativeLayout>

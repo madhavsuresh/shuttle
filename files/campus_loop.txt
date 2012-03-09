@@ -1,8 +1,0 @@
-SPAC @42.059744,-87.673903
-Patten Gym @42.060907,-87.676842
-Tech Institute @42.057849,-87.676917
-Jacobs Center @42.054296,-87.676992
-Weber Arch @42.051985,-87.677035
-Fisk Hall @42.05049,-87.673731
-Library/Norris Center @42.053308,-87.673452
-Campus Dr/Annenberg @42.055236,-87.674375

@@ -4,5 +4,7 @@
     <string name="hello">Hello World, ShuttleActivity!</string>
     <string name="app_name">Shuttle</string>
     <string name="dept_time">Enter Your Departure Time</string>
+    <string name="LocationHint">Type Location Here...</string>
+    <string name="map_key">0im0pz5bFJiWtNcfjqUu0xEFUB0ja-kBcmZScQA</string>
 
 </resources>
