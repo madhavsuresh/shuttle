@@ -1,0 +1,18 @@
+Campus Dr/Annenberg @42.055315,-87.674396
+Library/Norris Center @42.052989,-87.673645
+Fisk Hall @42.050488,-87.673881
+Weber Arch @42.051954,-87.676971
+Jacobs Center @42.053993,-87.676971
+Tech Institute @42.057673,-87.676864
+Noyes/Sherman (westbound) @42.058597,-87.681327
+Sherman/Simpson @42.055953,-87.681885
+Sherman/Emerson @42.05224,-87.681992
+Sherman/Clark @42.050153,-87.682099
+Davis/Sherman @42.047062,-87.682335
+Davis/Oak @42.047396,-87.686584
+Maple/Clark @42.050281,-87.684524
+Emerson/Maple (westbound) @42.05232,-87.685189
+Ridge/Garnett @42.053276,-87.687249
+Ridge/Simpson @42.055937,-87.686584
+Ridge/Noyes @42.058103,-87.685661
+Noyes/Sherman (eastbound) @42.058151,-87.681971	
